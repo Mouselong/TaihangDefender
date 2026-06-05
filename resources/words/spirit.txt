@@ -1,0 +1,521 @@
+# spirit.txt - 精神/思政词汇（中英双语）
+Taihang Spirit,太行山精神
+Taihang Road,太行山道路
+Li Baoguo,李保国
+dedication,奉献
+selfless dedication,无私奉献
+poverty alleviation,扶贫
+rural revitalization,乡村振兴
+hard work,艰苦奋斗
+pioneering innovation,开拓创新
+pragmatism,求真务实
+seeking truth from facts,实事求是
+scientific spirit,科学精神
+patriotism,爱国主义
+collectivism,集体主义
+socialism,社会主义
+communism,共产主义
+core socialist values,社会主义核心价值观
+prosperity,富强
+democracy,民主
+civility,文明
+harmony,和谐
+freedom,自由
+equality,平等
+justice,公正
+rule of law,法治
+patriotism,爱国
+dedication,敬业
+integrity,诚信
+friendship,友善
+ideology,意识形态
+politics,政治
+party,党
+CPC,中国共产党
+socialism with Chinese characteristics,中国特色社会主义
+Marxism,马克思主义
+Leninism,列宁主义
+Mao Zedong Thought,毛泽东思想
+Deng Xiaoping Theory,邓小平理论
+Three Represents,三个代表
+Scientific Outlook on Development,科学发展观
+Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era,习近平新时代中国特色社会主义思想
+Chinese Dream,中国梦
+great rejuvenation of the Chinese nation,中华民族伟大复兴
+modernization,现代化
+reform and opening up,改革开放
+innovation-driven development,创新驱动发展
+high-quality development,高质量发展
+common prosperity,共同富裕
+ecological civilization,生态文明
+green development,绿色发展
+sustainable development,可持续发展
+harmonious coexistence between humanity and nature,人与自然和谐共生
+rural vitalization strategy,乡村振兴战略
+agricultural modernization,农业现代化
+food security,粮食安全
+seed industry,种业
+seed source security,种源安全
+national rejuvenation,民族复兴
+cultural confidence,文化自信
+historical confidence,历史自信
+moral education,德育
+labor education,劳育
+aesthetic education,美育
+physical education,体育
+intellectual education,智育
+all-round development,全面发展
+people-centered,以人民为中心
+mass line,群众路线
+serve the people,为人民服务
+unity,团结
+cooperation,合作
+friendship,友谊
+peace,和平
+development,发展
+stability,稳定
+harmony,和谐
+progress,进步
+success,成功
+achievement,成就
+excellence,卓越
+quality,品质
+integrity,诚信
+honesty,诚实
+trust,信任
+respect,尊重
+kindness,善良
+compassion,同情
+empathy,共情
+courage,勇气
+bravery,勇敢
+determination,决心
+perseverance,毅力
+tenacity,坚韧
+resilience,韧性
+patience,耐心
+diligence,勤奋
+hard work,努力
+persistence,坚持
+consistency,一致性
+discipline,纪律
+self-discipline,自律
+responsibility,责任
+accountability,问责
+commitment,承诺
+dedication,奉献
+devotion,献身
+loyalty,忠诚
+fidelity,忠诚
+faith,信仰
+belief,信念
+conviction,信念
+ideal,理想
+dream,梦想
+vision,愿景
+mission,使命
+goal,目标
+ambition,雄心
+aspiration,抱负
+purpose,目的
+meaning,意义
+value,价值
+ethics,伦理
+morality,道德
+virtue,美德
+character,品格
+personality,人格
+dignity,尊严
+honor,荣誉
+glory,光荣
+fame,名声
+reputation,声誉
+respect,尊重
+admiration,敬佩
+appreciation,感激
+gratitude,感恩
+kindness,善良
+benevolence,仁慈
+goodness,善良
+generosity,慷慨
+giving,给予
+sharing,分享
+helping others,帮助他人
+volunteering,志愿服务
+service,服务
+contribution,贡献
+sacrifice,牺牲
+self-sacrifice,自我牺牲
+altruism,利他主义
+selflessness,无私
+selfishness,自私
+kindness,友善
+friendliness,友好
+warmth,温暖
+love,爱
+affection,感情
+friendship,友谊
+relationship,关系
+community,社区
+society,社会
+family,家庭
+friend,朋友
+lover,爱人
+parent,父母
+child,孩子
+teacher,老师
+student,学生
+colleague,同事
+team,团队
+teamwork,团队合作
+collaboration,协作
+cooperation,合作
+unity,团结
+solidarity,团结
+mutual help,互助
+mutual support,相互支持
+trust,信任
+confidence,信心
+self-confidence,自信
+self-esteem,自尊
+self-respect,自爱
+self-acceptance,自我接纳
+self-awareness,自我意识
+self-knowledge,自我认识
+self-improvement,自我提升
+self-development,自我发展
+growth,成长
+learning,学习
+education,教育
+knowledge,知识
+wisdom,智慧
+intelligence,智力
+creativity,创造力
+innovation,创新
+imagination,想象力
+thinking,思考
+reasoning,推理
+logic,逻辑
+critical thinking,批判性思维
+creative thinking,创造性思维
+problem solving,问题解决
+decision making,决策
+judgment,判断
+analysis,分析
+synthesis,综合
+evaluation,评估
+reflection,反思
+introspection,内省
+meditation,冥想
+mindfulness,正念
+presence,临在
+awareness,意识
+consciousness,意识
+attention,注意
+focus,专注
+concentration,集中
+determination,决心
+willpower,意志力
+discipline,纪律
+self-control,自制力
+will,意志
+intent,意图
+purpose,目的
+goal,目标
+plan,计划
+action,行动
+execution,执行
+implementation,实施
+effort,努力
+hard work,勤奋
+diligence,勤勉
+perseverance,坚持
+tenacity,坚韧
+resilience,韧性
+adaptability,适应性
+flexibility,灵活性
+agility,敏捷
+quickness,快速
+speed,速度
+efficiency,效率
+effectiveness,有效性
+quality,质量
+excellence,卓越
+perfection,完美
+mastery,精通
+skill,技能
+ability,能力
+capability,能力
+talent,天赋
+gift,天赋
+strength,强项
+weakness,弱项
+shortcoming,缺点
+limitation,局限
+improvement,改进
+progress,进步
+achievement,成就
+success,成功
+victory,胜利
+triumph,胜利
+failure,失败
+defeat,失败
+mistake,错误
+error,误差
+learning,学习
+growth,成长
+development,发展
+progress,进步
+evolution,进化
+change,变化
+transformation,转变
+transition,过渡
+adaptation,适应
+adjustment,调整
+modification,修改
+improvement,改进
+enhancement,增强
+promotion,推广
+advancement,前进
+forward,向前
+backward,向后
+upward,向上
+downward,向下
+left,向左
+right,向右
+inside,里面
+outside,外面
+above,上方
+below,下方
+before,之前
+after,之后
+now,现在
+then,那时
+here,这里
+there,那里
+this,这个
+that,那个
+these,这些
+those,那些
+all,所有
+each,每个
+every,每个
+some,一些
+many,很多
+few,很少
+much,很多
+little,很少
+more,更多
+less,更少
+most,最多
+least,最少
+first,第一
+last,最后
+beginning,开始
+end,结束
+start,开始
+finish,结束
+complete,完成
+incomplete,未完成
+full,满的
+empty,空的
+open,开放的
+closed,关闭的
+free,自由的
+bound,受限的
+happy,快乐
+sad,悲伤
+joyful,欢乐
+sorrowful,悲伤
+angry,生气
+calm,冷静
+peaceful,和平
+nervous,紧张
+anxious,焦虑
+worried,担心
+excited,兴奋
+bored,无聊
+tired,疲惫
+awake,醒着
+asleep,睡着
+conscious,有意识的
+unconscious,无意识的
+aware,知道
+unaware,不知道
+knowing,知道
+unknowing,不知道
+wise,明智
+foolish,愚蠢
+smart,聪明
+dumb,笨
+intelligent,智慧
+stupid,愚蠢
+clever,聪明
+brilliant,杰出
+dull,迟钝
+sharp,敏锐
+blunt,钝
+quick,快
+slow,慢
+fast,快
+rapid,迅速
+swift,敏捷
+speedy,快速
+hurried,匆忙
+leisurely,悠闲
+calmly,平静地
+nervously,紧张地
+anxiously,焦虑地
+worriedly,担心地
+happily,快乐地
+sadly,悲伤地
+joyfully,欢乐地
+sorrowfully,悲伤地
+excitedly,兴奋地
+boredly,无聊地
+tiredly,疲惫地
+consciously,有意识地
+unconsciously,无意识地
+wisely,明智地
+foolishly,愚蠢地
+smartly,聪明地
+intelligently,智慧地
+stupidly,愚蠢地
+cleverly,聪明地
+brilliantly,杰出地
+sharply,尖锐地
+quickly,快速地
+slowly,慢地
+fastly,快地
+rapidly,迅速地
+swiftly,敏捷地
+speedily,快速地
+hurriedly,匆忙地
+rushingly,急促地
+leisurely,悠闲地
+grateful,感激
+thankful,感谢
+appreciative,欣赏
+respectful,尊重
+polite,礼貌
+rude,粗鲁
+kind,善良
+mean,刻薄
+generous,慷慨
+stingy,小气
+selfish,自私
+selfless,无私
+honest,诚实
+dishonest,不诚实
+trustworthy,可信赖
+untrustworthy,不可信赖
+reliable,可靠
+unreliable,不可靠
+dependable,可依赖
+undependable,不可依赖
+responsible,负责
+irresponsible,不负责
+accountable,可问责
+unaccountable,不可问责
+careful,仔细
+careless,粗心
+thorough,彻底
+superficial,肤浅
+deep,深
+shallow,浅
+simple,简单
+complex,复杂
+complicated,复杂
+easy,容易
+difficult,困难
+hard,难
+simple,简单
+easygoing,随和
+serious,严肃
+humorous,幽默
+funny,有趣
+serious,认真
+playful,活泼
+active,活跃
+passive,被动
+aggressive,攻击性
+assertive,果断
+confident,自信
+shy,害羞
+introverted,内向
+extroverted,外向
+sociable,好交际
+friendly,友好
+unfriendly,不友好
+warm,温暖
+cold,冷淡
+kind,友善
+unkind,不友善
+helpful,有帮助
+unhelpful,无帮助
+supportive,支持
+unsupportive,不支持
+cooperative,合作
+uncooperative,不合作
+flexible,灵活
+inflexible,僵化
+adaptable,可适应
+unadaptable,不可适应
+resilient,有韧性
+fragile,脆弱
+strong,强
+weak,弱
+powerful,强大
+powerless,无力
+brave,勇敢
+cowardly,懦弱
+courageous,有勇气
+fearful,恐惧
+fearless,无畏
+bold,大胆
+timid,胆小
+curious,好奇
+incurious,不好奇
+interested,感兴趣
+uninterested,不感兴趣
+bored,无聊
+excited,兴奋
+happy,快乐
+joyful,欢乐
+sad,悲伤
+sorrowful,悲伤
+angry,生气
+calm,冷静
+peaceful,和平
+worried,担心
+anxious,焦虑
+nervous,紧张
+stressed,有压力
+relaxed,放松
+tired,疲惫
+energetic,有活力
+lively,活泼
+quiet,安静
+noisy,吵闹
+loud,大声
+soft,柔和
+gentle,温和
+rough,粗糙
+kind,善良
+mean,刻薄
+generous,慷慨
+stingy,小气
+selfish,自私
+selfless,无私
+honest,诚实
+dishonest,不诚实
+trustworthy,可信赖
+untrustworthy,不可信赖
+reliable,可靠
+unreliable,不可靠
+dependable,可依赖
+undependable,不可依赖
+responsible,负责
+irresponsible,不负责
+accountable,可问责
+unaccountable,不可问责

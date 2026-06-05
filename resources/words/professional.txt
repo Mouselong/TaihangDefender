@@ -1,0 +1,680 @@
+# professional.txt - 专业词汇（中英双语）
+plant pathology,植物病理学
+entomology,昆虫学
+nematology,线虫学
+weed science,杂草学
+plant breeding,植物育种
+crop science,作物科学
+horticulture,园艺学
+vegetable science,蔬菜学
+fruit science,果树学
+ornamental horticulture,观赏园艺
+landscape architecture,风景园林
+soil science,土壤学
+soil physics,土壤物理
+soil chemistry,土壤化学
+soil biology,土壤生物学
+soil fertility,土壤肥力
+fertilizer science,肥料学
+plant nutrition,植物营养学
+agrometeorology,农业气象学
+agricultural engineering,农业工程
+farm machinery,农业机械
+irrigation engineering,灌溉工程
+drainage engineering,排水工程
+water conservancy,水利
+agricultural economics,农业经济学
+agricultural management,农业管理
+rural sociology,农村社会学
+agricultural extension,农业推广
+agricultural policy,农业政策
+food science,食品科学
+food technology,食品技术
+food safety,食品安全
+food processing,食品加工
+food preservation,食品保藏
+food nutrition,食品营养
+food quality,食品品质
+food microbiology,食品微生物学
+food chemistry,食品化学
+food engineering,食品工程
+animal science,动物科学
+animal nutrition,动物营养
+animal breeding,动物育种
+animal physiology,动物生理
+animal pathology,动物病理
+veterinary medicine,兽医学
+animal husbandry,畜牧学
+aquaculture,水产养殖
+fisheries science,渔业科学
+forestry,林学
+forest management,森林经营
+forest ecology,森林生态
+wildlife management,野生动植物管理
+grassland science,草业科学
+ecology,生态学
+environmental science,环境科学
+environmental protection,环境保护
+environmental engineering,环境工程
+sustainable development,可持续发展
+climate change,气候变化
+global warming,全球变暖
+carbon cycle,碳循环
+nitrogen cycle,氮循环
+water cycle,水循环
+ecosystem,生态系统
+biodiversity,生物多样性
+conservation biology,保护生物学
+restoration ecology,恢复生态学
+invasion biology,入侵生物学
+microbiology,微生物学
+molecular biology,分子生物学
+genetics,遗传学
+genomics,基因组学
+proteomics,蛋白质组学
+bioinformatics,生物信息学
+biotechnology,生物技术
+genetic engineering,基因工程
+transgenic,转基因
+gene editing,基因编辑
+CRISPR,CRISPR
+marker-assisted selection,标记辅助选择
+QTL mapping,QTL定位
+genome sequencing,基因组测序
+bioassay,生物测定
+toxicology,毒理学
+pesticide science,农药学
+herbicide,除草剂
+insecticide,杀虫剂
+fungicide,杀菌剂
+rodenticide,灭鼠剂
+pesticide residue,农药残留
+pesticide safety,农药安全
+integrated pest management,害虫综合治理
+biological control,生物防治
+cultural control,农业防治
+physical control,物理防治
+mechanical control,机械防治
+chemical control,化学防治
+host plant resistance,寄主植物抗性
+plant immunity,植物免疫
+induced resistance,诱导抗性
+systemic acquired resistance,系统获得性抗性
+hypersensitive response,过敏反应
+pathogen,病原体
+bacteria,细菌
+fungi,真菌
+virus,病毒
+viroid,类病毒
+nematode,线虫
+insect pest,害虫
+weed,杂草
+disease cycle,病害循环
+infection process,侵染过程
+epidemiology,流行病学
+disease forecasting,病害预测
+disease monitoring,病害监测
+pest monitoring,害虫监测
+pest forecasting,害虫预测
+pest management,害虫管理
+disease management,病害管理
+weed management,杂草管理
+pest population dynamics,害虫种群动态
+insect behavior,昆虫行为
+insect ecology,昆虫生态学
+insect physiology,昆虫生理学
+insect toxicology,昆虫毒理学
+insect resistance,昆虫抗药性
+herbicide resistance,杂草抗药性
+fungicide resistance,真菌抗药性
+resistance management,抗性管理
+pest surveillance,害虫监测
+pest detection,害虫检测
+pest identification,害虫鉴定
+molecular diagnostics,分子诊断
+digital agriculture,数字农业
+smart agriculture,智慧农业
+precision agriculture,精准农业
+precision farming,精细农业
+remote sensing,遥感
+GPS,全球定位系统
+GIS,地理信息系统
+drone,无人机
+autonomous tractor,自动驾驶拖拉机
+robotics,机器人
+machine vision,机器视觉
+artificial intelligence,人工智能
+big data,大数据
+cloud computing,云计算
+Internet of Things,物联网
+sensors,传感器
+actuators,执行器
+automation,自动化
+decision support system,决策支持系统
+farm management information system,农场管理信息系统
+e-commerce,电商
+online marketing,线上营销
+live streaming,直播
+digital traceability,数字溯源
+blockchain,区块链
+supply chain,供应链
+value chain,价值链
+agricultural product circulation,农产品流通
+cold chain logistics,冷链物流
+storage,仓储
+preservation,保鲜
+processing,加工
+packaging,包装
+branding,品牌
+marketing,营销
+sales,销售
+distribution,配送
+consumer,消费者
+market,市场
+price,价格
+demand,需求
+supply,供给
+competition,竞争
+cooperation,合作
+collaboration,协作
+partnership,伙伴关系
+network,网络
+communication,沟通
+information,信息
+knowledge,知识
+technology,技术
+innovation,创新
+research,研究
+development,开发
+extension,推广
+education,教育
+training,培训
+extension service,推广服务
+farmer,农民
+grower,种植者
+producer,生产者
+cooperative,合作社
+association,协会
+enterprise,企业
+company,公司
+business,商业
+industry,产业
+sector,领域
+field,领域
+discipline,学科
+subject,科目
+course,课程
+curriculum,课程体系
+major,专业
+minor,辅修
+degree,学位
+bachelor,学士
+master,硕士
+doctor,博士
+postdoc,博士后
+professor,教授
+associate professor,副教授
+assistant professor,助理教授
+lecturer,讲师
+instructor,教师
+advisor,导师
+supervisor,导师
+mentor,导师
+tutor,辅导
+student,学生
+graduate student,研究生
+undergraduate student,本科生
+freshman,大一
+sophomore,大二
+junior,大三
+senior,大四
+class,班级
+classroom,教室
+lab,实验室
+library,图书馆
+campus,校园
+dormitory,宿舍
+canteen,食堂
+gymnasium,体育馆
+stadium,体育场
+field,田地
+farm,农场
+ranch,牧场
+orchard,果园
+vineyard,葡萄园
+garden,花园
+greenhouse,温室
+nursery,苗圃
+plot,小区
+trial,试验
+experiment,实验
+research project,科研项目
+grant,基金
+funding,资金
+budget,预算
+finance,财务
+accounting,会计
+management,管理
+administration,行政
+organization,组织
+institution,机构
+government,政府
+policy,政策
+regulation,规定
+law,法律
+standard,标准
+norm,规范
+protocol,协议
+guideline,指南
+recommendation,推荐
+advice,建议
+suggestion,建议
+opinion,意见
+idea,想法
+concept,概念
+theory,理论
+hypothesis,假设
+test,测试
+validation,验证
+verification,核实
+confirmation,确认
+certification,认证
+accreditation,认可
+approval,批准
+permission,许可
+license,执照
+permit,许可证
+registration,登记
+filing,备案
+application,申请
+submission,提交
+review,评审
+evaluation,评价
+assessment,评估
+judgment,判断
+decision,决定
+choice,选择
+option,选项
+alternative,替代方案
+solution,解决方案
+strategy,策略
+tactics,战术
+plan,计划
+schedule,时间表
+timeline,时间线
+deadline,截止日期
+milestone,里程碑
+goal,目标
+objective,目标
+target,目标
+aim,目的
+purpose,目的
+intention,意图
+meaning,意义
+value,价值
+importance,重要性
+priority,优先级
+urgency,紧急性
+importance,重要性
+significance,意义
+impact,影响
+effect,效果
+result,结果
+outcome,结果
+consequence,后果
+benefit,好处
+advantage,优势
+disadvantage,劣势
+strength,优点
+weakness,缺点
+opportunity,机会
+threat,威胁
+challenge,挑战
+problem,问题
+issue,议题
+question,问题
+answer,答案
+solution,解决方案
+problem solving,问题解决
+critical thinking,批判性思维
+logical thinking,逻辑思维
+creative thinking,创新思维
+systems thinking,系统思维
+analytical thinking,分析思维
+synthetic thinking,综合思维
+abstract thinking,抽象思维
+concrete thinking,具象思维
+divergent thinking,发散思维
+convergent thinking,收敛思维
+lateral thinking,横向思维
+vertical thinking,纵向思维
+visual thinking,视觉思维
+spatial thinking,空间思维
+temporal thinking,时间思维
+holistic thinking,整体思维
+reductionist thinking,还原思维
+scientific method,科学方法
+research method,研究方法
+experiment design,试验设计
+data analysis,数据分析
+statistics,统计
+statistical analysis,统计分析
+inference,推断
+deduction,演绎
+induction,归纳
+abduction,溯因
+hypothesis testing,假设检验
+confidence interval,置信区间
+significance level,显著性水平
+p-value,p值
+correlation,相关
+regression,回归
+model,模型
+simulation,模拟
+prediction,预测
+forecasting,预报
+projection,投影
+estimation,估计
+optimization,优化
+algorithm,算法
+computer science,计算机科学
+software engineering,软件工程
+programming,编程
+coding,编码
+debugging,调试
+testing,测试
+deployment,部署
+maintenance,维护
+version control,版本控制
+Git,Git
+GitHub,GitHub
+repository,仓库
+branch,分支
+commit,提交
+merge,合并
+pull request,拉取请求
+issue,问题
+project management,项目管理
+agile,敏捷
+scrum,Scrum
+kanban,看板
+waterfall,瀑布
+sprint,冲刺
+task,任务
+deliverable,交付物
+deadline,截止日期
+milestone,里程碑
+stakeholder,利益相关者
+team,团队
+collaboration,协作
+communication,沟通
+leadership,领导力
+management,管理
+decision making,决策
+problem solving,问题解决
+conflict resolution,冲突解决
+negotiation,谈判
+persuasion,说服
+influence,影响
+power,权力
+authority,权威
+responsibility,责任
+accountability,问责
+trust,信任
+transparency,透明
+integrity,诚信
+ethics,伦理
+morality,道德
+values,价值观
+principles,原则
+standards,标准
+norms,规范
+culture,文化
+tradition,传统
+heritage,遗产
+legacy,遗产
+history,历史
+background,背景
+context,情境
+perspective,视角
+viewpoint,观点
+opinion,意见
+attitude,态度
+belief,信念
+assumption,假设
+expectation,期望
+perception,感知
+cognition,认知
+understanding,理解
+comprehension,理解
+knowledge,知识
+wisdom,智慧
+insight,洞察
+intuition,直觉
+instinct,本能
+reflex,反射
+reaction,反应
+response,响应
+feedback,反馈
+input,输入
+output,输出
+process,过程
+procedure,程序
+method,方法
+technique,技术
+skill,技能
+ability,能力
+capability,能力
+competence,胜任
+talent,天赋
+gift,天赋
+aptitude,才能
+potential,潜力
+performance,表现
+achievement,成就
+success,成功
+failure,失败
+error,错误
+mistake,错误
+fault,故障
+bug,缺陷
+defect,缺陷
+flaw,瑕疵
+shortcoming,缺点
+limitation,局限
+constraint,约束
+restriction,限制
+barrier,障碍
+obstacle,障碍
+challenge,挑战
+difficulty,困难
+problem,问题
+complexity,复杂
+complication,复杂
+intricacy,错综复杂
+detail,细节
+particular,细节
+specific,具体的
+general,一般的
+abstract,抽象的
+concrete,具体的
+tangible,有形的
+intangible,无形的
+physical,物理的
+material,物质的
+mental,心理的
+psychological,心理的
+emotional,情感的
+social,社会的
+cultural,文化的
+economic,经济的
+political,政治的
+legal,法律的
+ethical,伦理的
+moral,道德的
+philosophical,哲学的
+scientific,科学的
+technical,技术的
+technological,技术的
+industrial,工业的
+commercial,商业的
+financial,金融的
+economic,经济的
+social,社会的
+environmental,环境的
+ecological,生态的
+biological,生物的
+chemical,化学的
+physical,物理的
+mathematical,数学的
+statistical,统计的
+computational,计算的
+digital,数字的
+analog,模拟的
+binary,二进制的
+decimal,十进制的
+hexadecimal,十六进制的
+octal,八进制的
+logical,逻辑的
+boolean,布尔的
+conditional,条件的
+iterative,迭代的
+recursive,递归的
+functional,函数式的
+imperative,命令式的
+declarative,声明式的
+object-oriented,面向对象的
+procedural,过程式的
+modular,模块化的
+scalable,可扩展的
+maintainable,可维护的
+reusable,可重用的
+adaptable,可适应的
+flexible,灵活的
+portable,可移植的
+compatible,兼容的
+interoperable,可互操作的
+standardized,标准化的
+normalized,规范化的
+optimized,优化的
+automated,自动化的
+integrated,集成的
+embedded,嵌入式的
+real-time,实时的
+high-performance,高性能的
+low-power,低功耗的
+energy-efficient,节能的
+cost-effective,性价比高的
+user-friendly,用户友好的
+intuitive,直观的
+ergonomic,人机工程学的
+accessible,可访问的
+inclusive,包容的
+diverse,多样的
+equitable,公平的
+just,公正的
+fair,公平的
+transparent,透明的
+accountable,可问责的
+responsible,负责的
+sustainable,可持续的
+resilient,有韧性的
+adaptive,适应性强的
+agile,敏捷的
+responsive,响应式的
+dynamic,动态的
+static,静态的
+stable,稳定的
+reliable,可靠的
+dependable,可依赖的
+trustworthy,可信赖的
+authentic,真实的
+genuine,真诚的
+honest,诚实的
+integrity,诚信
+respect,尊重
+dignity,尊严
+equality,平等
+justice,正义
+fairness,公平
+liberty,自由
+freedom,自由
+democracy,民主
+human rights,人权
+rule of law,法治
+governance,治理
+management,管理
+administration,行政
+leadership,领导力
+followership,追随力
+teamwork,团队合作
+collaboration,协作
+cooperation,合作
+competition,竞争
+coopetition,竞合
+partnership,伙伴关系
+alliance,联盟
+coalition,联盟
+network,网络
+community,社区
+society,社会
+culture,文化
+civilization,文明
+history,历史
+tradition,传统
+heritage,遗产
+legacy,遗产
+future,未来
+present,现在
+past,过去
+time,时间
+space,空间
+matter,物质
+energy,能量
+force,力
+motion,运动
+change,变化
+growth,生长
+development,发展
+evolution,进化
+progress,进步
+innovation,创新
+creation,创造
+destruction,破坏
+construction,建设
+building,建筑
+architecture,建筑
+design,设计
+art,艺术
+craft,工艺
+skill,技能
+technique,技术
+method,方法
+practice,实践
+theory,理论
+philosophy,哲学
+science,科学
+technology,技术
+engineering,工程
+math,数学
+physics,物理
+chemistry,化学
+biology,生物
+geology,地质
+geography,地理
+astronomy,天文
+meteorology,气象
+oceanography,海洋学
+limnology,湖沼学
+hydrology,水文学
+soil science,土壤学
+mineralogy,矿物学
+petrology,岩石学
+geophysics,地球物理
+geochemistry,地球化学
+ecology,生态
+environmental science,环境科学
+atmospheric science,大气科学
+climatology,气候学
+meteorology,气象学
+agrometeorology,农业气象

@@ -1,0 +1,447 @@
+# agriculture.txt - 农业/学校相关词汇（中英双语）
+agriculture,农业
+agronomy,农学
+soil science,土壤学
+crop rotation,轮作
+College of Agriculture,农学院
+field management,田间管理
+sustainable farming,可持续农业
+agroecology,农业生态学
+rural development,乡村振兴
+extension,推广
+Hebei Agricultural University,河北农业大学
+School of Agriculture,农学院
+Department of Plant Protection,植保学院
+College of Resources and Environment,资源环境学院
+College of Horticulture,园艺学院
+College of Food Science and Technology,食品科技学院
+College of Landscape and Tourism,园林旅游学院
+College of Life Sciences,生命科学学院
+College of Information Science and Technology,信息科学与技术学院
+College of Science,理学院
+College of Foreign Languages,外国语学院
+College of Humanities and Law,文法学院
+College of Marxism,马克思主义学院
+College of Economics and Management,经济管理学院
+College of Urban and Rural Construction,城乡建设学院
+College of Mechanical and Electrical Engineering,机电工程学院
+College of Animal Science and Technology,动物科技学院
+College of Traditional Chinese Veterinary Medicine,中兽医学院
+College of Oceanography,海洋学院
+Bohai Campus,渤海校区
+Zhengding Campus,正定校区
+school history,校史
+school motto,校训
+school song,校歌
+virtue, practicality, truth-seeking,崇德务实求是
+Taihang Road,太行山道路
+Taihang Spirit,太行山精神
+Li Baoguo,李保国
+dedication,无私奉献
+hard work,艰苦奋斗
+pioneering,开拓创新
+selfless dedication,无私奉献
+poverty alleviation,扶贫
+rural revitalization,乡村振兴
+scientific research,科学研究
+teaching,教学
+innovation,创新
+application,应用
+practice,实践
+theory,理论
+experiment,实验
+laboratory,实验室
+field trial,田间试验
+greenhouse,温室
+fertilizer,肥料
+pesticide,农药
+herbicide,除草剂
+insecticide,杀虫剂
+fungicide,杀菌剂
+seedling,秧苗
+transplant,移栽
+harvest,收获
+yield,产量
+quality,品质
+irrigation,灌溉
+drainage,排水
+soil,土壤
+organic matter,有机质
+nutrient,养分
+nitrogen,氮
+phosphorus,磷
+potassium,钾
+trace elements,微量元素
+soil fertility,土壤肥力
+soil erosion,水土流失
+conservation,保护
+ecology,生态
+environment,环境
+biodiversity,生物多样性
+organic farming,有机农业
+green agriculture,绿色农业
+ecological agriculture,生态农业
+precision agriculture,精准农业
+smart agriculture,智慧农业
+agricultural machinery,农业机械
+tractor,拖拉机
+combine harvester,联合收割机
+planter,播种机
+sprayer,喷雾器
+drip irrigation,滴灌
+sprinkler irrigation,喷灌
+water saving,节水
+drought resistance,抗旱
+flood resistance,抗洪
+pest control,病虫害防治
+integrated pest management,综合防治
+biological control,生物防治
+natural enemies,天敌
+beneficial insects,益虫
+predators,捕食者
+parasites,寄生者
+pollinators,传粉者
+bee,蜜蜂
+honey,蜂蜜
+pollination,授粉
+fruit set,坐果
+flowering,开花
+fruit development,果实发育
+ripening,成熟
+storage,储藏
+processing,加工
+marketing,营销
+supply chain,供应链
+value chain,价值链
+agricultural product,农产品
+food safety,食品安全
+quality control,质量控制
+standardization,标准化
+certification,认证
+brand,品牌
+geographic indication,地理标志
+specialty products,特色产品
+local specialty,地方特产
+characteristic agriculture,特色农业
+tourism agriculture,观光农业
+leisure agriculture,休闲农业
+agritourism,乡村旅游
+farm stay,农家乐
+picking garden,采摘园
+demonstration base,示范基地
+extension station,推广站
+agricultural technician,农技员
+veterinarian,兽医
+animal husbandry,畜牧
+aquaculture,水产养殖
+forestry,林业
+grassland,草地
+rangeland,牧场
+pastoralism,畜牧业
+livestock,家畜
+poultry,家禽
+cattle,牛
+sheep,羊
+pig,猪
+chicken,鸡
+duck,鸭
+goose,鹅
+feed,饲料
+forage,牧草
+silage,青贮
+manure,粪肥
+biogas,沼气
+renewable energy,可再生能源
+solar energy,太阳能
+wind energy,风能
+biomass,生物质
+circular agriculture,循环农业
+zero waste,零废弃
+carbon sequestration,碳汇
+carbon neutrality,碳中和
+carbon peak,碳达峰
+climate change,气候变化
+adaptation,适应
+mitigation,减缓
+agricultural meteorology,农业气象
+weather forecast,天气预报
+disaster prevention,防灾减灾
+disaster resistance,抗灾
+disaster relief,救灾
+emergency response,应急响应
+early warning,预警
+insurance,保险
+agricultural insurance,农业保险
+subsidy,补贴
+policy support,政策支持
+government project,政府项目
+research project,科研项目
+innovation fund,创新基金
+technology transfer,技术转移
+extension service,推广服务
+training,培训
+education,教育
+popular science,科普
+extension network,推广网络
+grassroots,基层
+village,村
+township,乡
+county,县
+city,市
+province,省
+region,地区
+district,区
+community,社区
+cooperative,合作社
+family farm,家庭农场
+large-scale farm,规模农场
+agricultural enterprise,农业企业
+agricultural park,农业园区
+modern agriculture park,现代农业园区
+high-tech zone,高新区
+industrial park,产业园
+processing park,加工园
+logistics park,物流园
+trade center,交易中心
+wholesale market,批发市场
+retail,零售
+e-commerce,电商
+online sales,线上销售
+live streaming,直播带货
+cold chain,冷链
+logistics,物流
+distribution,配送
+supply chain management,供应链管理
+traceability,溯源
+quality assurance,质量保障
+safety inspection,安全检测
+standard,标准
+regulation,规定
+law,法律
+policy,政策
+regulation,监管
+supervision,监督
+audit,审计
+inspection,检查
+assessment,评估
+evaluation,评价
+certification,认证
+accreditation,认可
+license,许可
+permit,批准
+approval,批准
+authorization,授权
+registration,登记
+filing,备案
+application,申请
+declaration,申报
+report,报告
+document,文档
+file,档案
+record,记录
+data,数据
+information,信息
+database,数据库
+platform,平台
+system,系统
+software,软件
+hardware,硬件
+equipment,设备
+machine,机器
+device,装置
+tool,工具
+instrument,仪器
+sensor,传感器
+detector,探测器
+monitor,监控
+monitoring,监测
+surveillance,监视
+control,控制
+automation,自动化
+intelligence,智能
+artificial intelligence,人工智能
+machine learning,机器学习
+big data,大数据
+cloud computing,云计算
+Internet of Things,物联网
+5G,5G
+digitalization,数字化
+informatization,信息化
+modernization,现代化
+transformation,转型
+upgrade,升级
+reform,改革
+innovation,创新
+entrepreneurship,创业
+employment,就业
+income,收入
+increase,增长
+development,发展
+progress,进步
+achievement,成就
+success,成功
+failure,失败
+challenge,挑战
+opportunity,机遇
+prospect,前景
+future,未来
+goal,目标
+mission,使命
+vision,愿景
+value,价值
+principle,原则
+concept,理念
+philosophy,哲学
+spirit,精神
+culture,文化
+tradition,传统
+heritage,遗产
+inheritance,传承
+innovation,创新
+creativity,创造力
+imagination,想象力
+thinking,思维
+learning,学习
+teaching,教学
+research,研究
+discovery,发现
+invention,发明
+creation,创造
+production,生产
+operation,运营
+management,管理
+administration,行政
+organization,组织
+institution,机构
+university,大学
+college,学院
+school,学校
+campus,校园
+library,图书馆
+laboratory,实验室
+classroom,教室
+dormitory,宿舍
+canteen,食堂
+gymnasium,体育馆
+stadium,体育场
+playground,操场
+garden,花园
+park,公园
+square,广场
+road,道路
+path,小路
+tree,树
+flower,花
+grass,草
+landscape,景观
+scenery,风景
+view,景色
+sightseeing,观光
+tourism,旅游
+travel,旅行
+journey,旅程
+trip,出行
+visit,访问
+exploration,探索
+adventure,冒险
+experience,体验
+memory,记忆
+history,历史
+past,过去
+present,现在
+future,未来
+time,时间
+moment,时刻
+today,今天
+tomorrow,明天
+yesterday,昨天
+day,天
+week,周
+month,月
+year,年
+season,季节
+spring,春
+summer,夏
+autumn,秋
+winter,冬
+morning,早晨
+noon,中午
+afternoon,下午
+evening,晚上
+night,夜晚
+sunrise,日出
+sunset,日落
+dawn,黎明
+dusk,黄昏
+midnight,午夜
+temperature,温度
+humidity,湿度
+rain,雨
+snow,雪
+wind,风
+cloud,云
+sun,太阳
+moon,月亮
+star,星星
+sky,天空
+earth,地球
+world,世界
+universe,宇宙
+nature,自然
+life,生命
+health,健康
+happiness,幸福
+joy,快乐
+pleasure,愉悦
+sadness,悲伤
+sorrow,痛苦
+anger,愤怒
+fear,恐惧
+courage,勇气
+hope,希望
+dream,梦想
+goal,目标
+plan,计划
+action,行动
+effort,努力
+work,工作
+study,学习
+play,游戏
+rest,休息
+sleep,睡眠
+food,食物
+water,水
+air,空气
+soil,土壤
+sunlight,阳光
+energy,能量
+matter,物质
+space,空间
+time,时间
+force,力
+motion,运动
+change,变化
+growth,生长
+development,发展
+evolution,进化
+progress,进步
+improvement,改进
+enhancement,增强
+promotion,推广
+propagation,繁殖
+reproduction,生殖
+breeding,育种
+selection,选择
+hybridization,杂交
+genetics,遗传学
+gene,基因
+DNA,DNA
+chromosome,染色体
+genome,基因组
+mutation,突变
+variation,变异
+inheritance,遗传
+heritability,遗传力
+heritability,遗传率
+heritability,遗传力
+heritability,遗传率
