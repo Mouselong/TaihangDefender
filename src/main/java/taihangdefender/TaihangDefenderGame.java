@@ -140,23 +140,25 @@ public class TaihangDefenderGame {
     }
 
     enum TowerType {
-        DRONE_TOWER("Drone Tower", 20, 210, 14, 1.0, new Color(70, 130, 180)),
-        IRRIGATION_TOWER("Irrigation Tower", 18, 180, 7, 1.2, new Color(70, 171, 113)),
-        PESTICIDE_TOWER("Pesticide Tower", 26, 160, 26, 1.8, new Color(174, 127, 61));
+        DRONE_TOWER("Drone Tower", 20, 210, 14, 1.0, 0, new Color(70, 130, 180)),
+        IRRIGATION_TOWER("Irrigation Tower", 18, 180, 7, 1.2, 0, new Color(70, 171, 113)),
+        PESTICIDE_TOWER("Pesticide Tower", 26, 160, 26, 1.8, 35, new Color(174, 127, 61));
 
         final String label;
         final int cost;
         final double range;
         final int damage;
         final double cooldownSec;
+        final int splashRadius;
         final Color color;
 
-        TowerType(String label, int cost, double range, int damage, double cooldownSec, Color color) {
+        TowerType(String label, int cost, double range, int damage, double cooldownSec, int splashRadius, Color color) {
             this.label = label;
             this.cost = cost;
             this.range = range;
             this.damage = damage;
             this.cooldownSec = cooldownSec;
+            this.splashRadius = splashRadius;
             this.color = color;
         }
     }
@@ -228,10 +230,13 @@ public class TaihangDefenderGame {
                 int damage = tower.type.damage;
                 if (droneBoost && tower.type == TowerType.DRONE_TOWER) damage += 6;
                 target.hp -= damage;
-                if (tower.type == TowerType.IRRIGATION_TOWER) target.speed *= 0.85;
+                if (tower.type == TowerType.IRRIGATION_TOWER && !target.slowed) {
+                    target.speed = Math.max(target.baseSpeed * 0.65, target.speed * 0.85);
+                    target.slowed = true;
+                }
                 if (tower.type == TowerType.PESTICIDE_TOWER) {
                     for (Pest nearby : pests) {
-                        if (nearby != target && nearby.lane == target.lane && Math.abs(nearby.x - target.x) <= 35) {
+                        if (nearby != target && nearby.lane == target.lane && Math.abs(nearby.x - target.x) <= tower.type.splashRadius) {
                             nearby.hp -= damage / 2;
                         }
                     }
@@ -298,7 +303,7 @@ public class TaihangDefenderGame {
 
     static class Tower {
         final int lane;
-        final int x;
+        final double x;
         final TowerType type;
         double cooldown;
 
@@ -314,12 +319,16 @@ public class TaihangDefenderGame {
         double x;
         int hp;
         double speed;
+        double baseSpeed;
+        boolean slowed;
 
         void reset(int lane, double x, int hp, double speed) {
             this.lane = lane;
             this.x = x;
             this.hp = hp;
             this.speed = speed;
+            this.baseSpeed = speed;
+            this.slowed = false;
         }
     }
 
@@ -336,7 +345,9 @@ public class TaihangDefenderGame {
         }
 
         void release(T item) {
-            pool.push(item);
+            if (item != null) {
+                pool.push(item);
+            }
         }
     }
 
